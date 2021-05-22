@@ -1,9 +1,26 @@
 
 ## Welcome to Dong Zhu's Homepage
 
+---
+<img src='/cv_photo.jpg' align='right' style=' width:210px'/>
+
+# Dong Zhu (朱冬)
+
+Ph.D., Associate Professor
+
+School of Electronic Information and Communications
+
+Huazhong University of Science and Technology
+
+Wuhan 430074, P.R. China
+
+Email: dzhu[AT]hust.edu.cn
+
+---
+
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>Dr. Dong Zhu (朱冬)</h1>
       <p>Associate Professor </p>
       <p>School of Electronic Information and Communications</p>
@@ -11,8 +28,8 @@
       <p>Wuhan 430074, P.R. China</p>
       <p>Email: dzhu[AT]hust.edu.cn</p>
     </td>
-    <td width="25%">
-      <img src='/photo_2.jpg' align='right' style=' width:1378px'/>
+    <td width="50%">
+      <img src='/cv_photo.jpg' align='right' style=' width:800px'/>
     </td>
   </tr>
 </table>
