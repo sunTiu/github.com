@@ -40,6 +40,9 @@ Email: dzhu[AT]hust.edu.cn
 6. **D. Zhu**, J. Li, and G. Li, "RFI Source Localization in Microwave Interferometric Radiometry: A Sparse Signal Reconstruction Perspective," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 58, no. 6, pp. 4006-4017, June 2020.
 7. H. Lu, Y. Li, R. Yu, A. Jin, R. Lv, H. Li, Q. Li, and **D. Zhu***, "An RFI Detection and Mitigation Algorithm for an L-Band Phased Array Radiometer," *IEEE Geoscience and Remote Sensing Letters*, vol. 17, no. 5, pp. 779-783, May 2020.
 8. H. Lu , Y. Li, H. Li, R. Lv, L. Lang, Q. Li, G. Song, P. Li, K. Wang, L. Xue, and **Dong Zhu***, "Ship Detection by an Airborne Passive Interferometric Microwave Sensor (PIMS)," *IEEE Transactionson Geoscience and Remote Sensing*, vol. 58, no. 4, pp. 2682-2694, April, 2020.
+9. **D. Zhu** and X. Peng, "Combinatorial Design of Low-Degradation Linear Arrays in Interferometric Aperture Synthesis Radiometers," *IEEE Transactions on Antennas and Propagation*, vol. 67, no. 12, pp. 7340-7347, Dec. 2019.
+10. **D. Zhu**, F. Hu, X. Peng, and H. Lu, "On Baseline Weighting for Radiometric Sensitivity Analysis in Microwave Interferometric Radiometry," *IEEE Antennas and Wireless Propagation Letters*, vol. 18, no. 4, pp. 791-795, April 2019.
+11. **D. Zhu**, F. Hu, and X. Peng, "Expansion Design of Interferometric Aperture Synthesis Arrays Based on Multi-Objective Optimization," *IEEE Access*, vol. 7, pp. 16787-16794, 2019.
 
 
 
