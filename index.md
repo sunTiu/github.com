@@ -1,10 +1,11 @@
 
-## Welcome to Dong Zhu's Homepage
+### Welcome to Dong Zhu's Homepage
 
 ---
+
 <img src='/cv_photo.jpg' align='right' style=' width:210px'/>
 
-# Dong Zhu (朱冬)
+### Dong Zhu (朱冬)
 
 Ph.D., Associate Professor
 
@@ -18,28 +19,13 @@ Email: dzhu[AT]hust.edu.cn
 
 ---
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h1>Dr. Dong Zhu (朱冬)</h1>
-      <p>Associate Professor </p>
-      <p>School of Electronic Information and Communications</p>
-      <p>Huazhong University of Science and Technology</p>
-      <p>Wuhan 430074, P.R. China</p>
-      <p>Email: dzhu[AT]hust.edu.cn</p>
-    </td>
-    <td width="50%">
-      <img src='/cv_photo.jpg' align='right' style=' width:800px'/>
-    </td>
-  </tr>
-</table>
-
-
 ### Education
 
 - 2007.07, Ph.D., Communication Engineering, Huazhong University of Science and Technology
 
 - 2013.06, B.S., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology
+
+---
 
 ### Experience
 
@@ -47,9 +33,13 @@ Email: dzhu[AT]hust.edu.cn
 
 - 2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University
 
+---
+
 ### Research Interests
 
 &emsp;&emsp;Microwave Remote Sensing, Array Signal Processing, Antenna Arrays, Numerical Optimization Techniques, Information Fusion.
+
+---
 
 ### Publications
 
