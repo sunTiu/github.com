@@ -43,8 +43,11 @@ Email: dzhu[AT]hust.edu.cn
 9. **D. Zhu** and X. Peng, "Combinatorial Design of Low-Degradation Linear Arrays in Interferometric Aperture Synthesis Radiometers," *IEEE Transactions on Antennas and Propagation*, vol. 67, no. 12, pp. 7340-7347, Dec. 2019.
 10. **D. Zhu**, F. Hu, X. Peng, and H. Lu, "On Baseline Weighting for Radiometric Sensitivity Analysis in Microwave Interferometric Radiometry," *IEEE Antennas and Wireless Propagation Letters*, vol. 18, no. 4, pp. 791-795, April 2019.
 11. **D. Zhu**, F. Hu, and X. Peng, "Expansion Design of Interferometric Aperture Synthesis Arrays Based on Multi-Objective Optimization," *IEEE Access*, vol. 7, pp. 16787-16794, 2019.
-
-
+12. **D. Zhu**, F. Hu, L. Lang, P. Tang, X. Peng, and F. He, "Radiometric Sensitivity and Angular Resolution Optimization of Thinned Linear Arrays in Microwave Interferometric Radiometry," *IEEE Transactions on Antennas and Propagation*, vol. 67, no. 1, pp. 568-573, Jan. 2019.
+13. F. Hu, **D. Zhu***, X. Peng, and P. Tang, "Synthesis of Thinned Planar Arrays with Two-Fold Redundancy for Microwave Interferometric Radiometers," *Electronics Letters*, vol. 54, no. 7, pp. 426-428, April 2018.
+14. **D. Zhu**, F. Hu, L. Lang, P. Tang, X. Peng, and F. He, "Double Difference Bases and Thinned Arrays with Twofold Redundancy," *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 12, pp. 7366-7371, Dec. 2017.
+15. **D. Zhu**, F. Hu, L. Wu, J. Li, and L. Lang, "Low-Redundancy Linear Arrays in Mirrored Interferometric Aperture Synthesis," *Optics Letters*, vol. 41, no. 2, pp. 368-371, Jan. 2016.
+16. **D. Zhu**, F. Hu, F. He, L. Wu, J. Li, and C.-H. Jang, "A Novel Optimal Design of Antenna Array in Aperture Synthesis Radiometers," *IEEE Antennas and Wireless Propagation Letters*, vol. 14, pp. 1227-1230, 2015.
 
 
 
