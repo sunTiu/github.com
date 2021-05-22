@@ -1,4 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Dong Zhu's Homepage
+
+# Dr. Dong Zhu
+
+Associate Professor 
+
+School of Electronic Information and Communications
+
+Huazhong University of Science and Technology
+
+Wuhan 430074
+
+P.R. China
+
+Email: dzhu[AT]hust.edu.cn
+
+### Education
+
+2007.07, Ph.D., Communication Engineering, Huazhong University of Science and Technology
+
+2013.06, B.S., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology
+
+### Experience
+
+2021.05-present, Associate Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology
+
+2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University
+
+### Research Interests
+
+Microwave Remote Sensing, Array Signal Processing, Antenna Arrays, Numerical Optimization Techniques, Information Fusion.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/sunTiu/github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
