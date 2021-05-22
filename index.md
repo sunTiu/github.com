@@ -1,7 +1,7 @@
 
-### Welcome to Dong Zhu's Homepage
+## Welcome to Dong Zhu's Homepage
 
----
+
 
 <img src='/cv_photo.jpg' align='right' style=' width:210px'/>
 
@@ -17,33 +17,32 @@ Wuhan 430074, P.R. China
 
 Email: dzhu[AT]hust.edu.cn
 
----
 
-### Education
+
+## Education
 
 - 2007.07, Ph.D., Communication Engineering, Huazhong University of Science and Technology
 
 - 2013.06, B.S., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology
 
----
 
-### Experience
+## Experience
 
 - 2021.05-present, Associate Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology
 
 - 2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University
 
----
 
-### Research Interests
+
+## Research Interests
 
 &emsp;&emsp;Microwave Remote Sensing, Array Signal Processing, Antenna Arrays, Numerical Optimization Techniques, Information Fusion.
 
----
 
-### Publications
 
-#### Journal Articles
+## Publications
+
+### Journal Articles
 
 1. **D. Zhu**, L. Wu, Y. Cheng, and H. Lu, "Deterministic Array Configurations for Radiometric Sensitivity Optimization in Microwave Interferometric Radiometers," *IEEE Transactions on Geoscience and Remote Sensing*, in press.
 2. **D. Zhu** and G. Li, "Multiple-Fold Redundancy Arrays With Robust Difference Coarrays: Fundamental and Analytical Design Method," *IEEE Transactions on Antennas and Propagation*, in press.
@@ -64,7 +63,7 @@ Email: dzhu[AT]hust.edu.cn
 
 
 
-#### Conference Articles
+### Conference Articles
 
 1. **D. Zhu** and G. Li, "SMOS RFI Detection Based on Reweighted L1-norm Mininization," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*. **(Invited)**
 2. **D. Zhu**, X. Wang, G. Li, and X.-P. Zhang, "Fusion of Spaceborne and Airborne SAR images Using Saliency and Fuzzy Logic for Vessel Detection," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*.
