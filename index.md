@@ -58,6 +58,7 @@ Email: dzhu[AT]hust.edu.cn
 3. **D. Zhu** and G. Li, "Location of SMOS RFI Sources Using a Matrix Completion Approach," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2020*.
 4. **D. Zhu**, G. Li, and X.-P. Zhang, "Mirrored Arrays for Direction-Of-Arrival Estimation," In *Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2020*.
 5. **D. Zhu** and G. Li, "Robust Sparse Arrays with Multiple-Fold Redundant Difference Coarrays," In *Proceedings of IEEE International Conference on Signal, Information and Data Processing (ICSIDP) 2019*. **(Excellent Paper)**
+6. **D. Zhu**, F. Hu, L. Lang, L. Wu, and X. Peng, "Multi-Objective Optimization of Circular Lattice Arrays in Aperture Synthesis Radiometers," In *Proceedings of IEEE International Symposium on Antennas and Propagation (APS/URSI) 2016*.
 
 
 You can use the [editor on GitHub](https://github.com/sunTiu/github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
