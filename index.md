@@ -26,9 +26,20 @@ Email: dzhu[AT]hust.edu.cn
 
 ### Research Interests
 
-Microwave Remote Sensing, Array Signal Processing, Antenna Arrays, Numerical Optimization Techniques, Information Fusion.
+&emsp;&emsp;Microwave Remote Sensing, Array Signal Processing, Antenna Arrays, Numerical Optimization Techniques, Information Fusion.
+
+### Publications
+
+#### Journal Articles
 
 
+#### Conference Articles
+
+1. **D. Zhu** and G. Li, "SMOS RFI Detection Based on Reweighted L1-norm Mininization," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*. **(Invited)**
+2. **D. Zhu**, X. Wang, G. Li, and X.-P. Zhang, "Fusion of Spaceborne and Airborne SAR images Using Saliency and Fuzzy Logic for Vessel Detection," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*.
+3. **D. Zhu** and G. Li, "Location of SMOS RFI Sources Using a Matrix Completion Approach," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2020*.
+4. **D. Zhu**, G. Li, and X.-P. Zhang, "Mirrored Arrays for Direction-Of-Arrival Estimation," In *Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2020*.
+5. **D. Zhu** and G. Li, "Robust Sparse Arrays with Multiple-Fold Redundant Difference Coarrays," In *Proceedings of IEEE International Conference on Signal, Information and Data Processing (ICSIDP) 2019*. **(Excellent Paper)**
 
 
 You can use the [editor on GitHub](https://github.com/sunTiu/github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
