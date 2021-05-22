@@ -32,6 +32,11 @@ Email: dzhu[AT]hust.edu.cn
 
 #### Journal Articles
 
+1. **D. Zhu**, L. Wu, Y. Cheng, and H. Lu, "Deterministic Array Configurations for Radiometric Sensitivity Optimization in Microwave Interferometric Radiometers," *IEEE Transactions on Geoscience and Remote Sensing*, in press.
+2. **D. Zhu** and G. Li, "Multiple-Fold Redundancy Arrays With Robust Difference Coarrays: Fundamental and Analytical Design Method," *IEEE Transactions on Antennas and Propagation*, in press.
+3. **D. Zhu**, G. Li, and X.-P. Zhang, "Source Localization Based on Hybrid Coarray for One-Dimensional Mirrored Interferometric Aperture Synthesis," *IEEE Transactions on Geoscience and Remote Sensing*, in press.
+4. **D. Zhu**, X. Peng, and G. Li, "A Matrix Completion Based Method for RFI Source Localization in Microwave Interferometric Radiometry," *IEEE Transactions on Geoscience and Remote Sensing*, in press. 
+5. **D. Zhu**, J. Li, and G. Li, "RFI Source Localization in Microwave Interferometric Radiometry: A Sparse Signal Reconstruction Perspective," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 58, no. 6, pp. 4006-4017, June 2020.
 
 #### Conference Articles
 
