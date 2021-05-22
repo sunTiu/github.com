@@ -8,23 +8,21 @@ School of Electronic Information and Communications
 
 Huazhong University of Science and Technology
 
-Wuhan 430074
-
-P.R. China
+Wuhan 430074, P.R. China
 
 Email: dzhu[AT]hust.edu.cn
 
 ### Education
 
-2007.07, Ph.D., Communication Engineering, Huazhong University of Science and Technology
+- 2007.07, Ph.D., Communication Engineering, Huazhong University of Science and Technology
 
-2013.06, B.S., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology
+- 2013.06, B.S., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology
 
 ### Experience
 
-2021.05-present, Associate Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology
+- 2021.05-present, Associate Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology
 
-2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University
+- 2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University
 
 ### Research Interests
 
