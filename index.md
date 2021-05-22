@@ -38,6 +38,8 @@ Email: dzhu[AT]hust.edu.cn
 4. **D. Zhu**, G. Li, and X.-P. Zhang, "Source Localization Based on Hybrid Coarray for One-Dimensional Mirrored Interferometric Aperture Synthesis," *IEEE Transactions on Geoscience and Remote Sensing*, in press.
 5. **D. Zhu**, X. Peng, and G. Li, "A Matrix Completion Based Method for RFI Source Localization in Microwave Interferometric Radiometry," *IEEE Transactions on Geoscience and Remote Sensing*, in press. 
 6. **D. Zhu**, J. Li, and G. Li, "RFI Source Localization in Microwave Interferometric Radiometry: A Sparse Signal Reconstruction Perspective," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 58, no. 6, pp. 4006-4017, June 2020.
+7. H. Lu, Y. Li, R. Yu, A. Jin, R. Lv, H. Li, Q. Li, and **D. Zhu***, "An RFI Detection and Mitigation Algorithm for an L-Band Phased Array Radiometer," *IEEE Geoscience
+and Remote Sensing Letters*, vol. 17, no. 5, pp. 779-783, May 2020.
 
 #### Conference Articles
 
