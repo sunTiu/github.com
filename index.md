@@ -13,7 +13,7 @@
       <p>Email: dzhu[AT]hust.edu.cn</p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/photo_2.jpg" width="10%">      % 插入证件照代码
     </td>
   </tr>
 </table>
