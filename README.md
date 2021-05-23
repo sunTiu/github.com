@@ -1,2 +1,1 @@
-# github.com
-Dong Zhu's Homepage
+# Dong Zhu's Homepage
