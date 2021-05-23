@@ -5,7 +5,7 @@
 
 <img src='/cv_photo.jpg' align='right' style=' width:210px'/>
 
-## 朱冬 (Dong Zhu)
+## 朱冬 
 
 博士, 副研究员
 
