@@ -3,7 +3,7 @@
 
 <img src='/cv_photo.jpg' align='right' style=' width:210px'/>
 
-## Dong Zhu (朱冬)
+## Dong Zhu
 
 
 
