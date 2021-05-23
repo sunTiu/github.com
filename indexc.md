@@ -17,18 +17,18 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 ## 教育背景
 
-- 2013.06, 获工学博士学位, 华中科技大学电子信息与通信学院. 导师: [胡飞](http://eic.hust.edu.cn/professor/hufei/) 教授.
+- 2018.12, 获工学博士学位, 华中科技大学电子信息与通信学院. 导师: [胡飞](http://eic.hust.edu.cn/professor/hufei/) 教授.
 
-- 2007.07, 获工学学士学位, 华中科技大学电子信息与通信学院.
-
-
+- 2013.06, 获工学学士学位, 华中科技大学电子信息与通信学院.
 
 
-## Experience
 
-- 2021.05-present, Associate Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology.
 
-- 2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University. Supervisor: Professor [Gang Li](http://oa.ee.tsinghua.edu.cn/~ligang/index.htm).
+## 职业经历
+
+- 2021.05至今, 副研究员, 华中科技大学电子信息与通信学院.
+
+- 2019.02-2021.03, 博士后（助理研究员）, 清华大学电子系. 合作导师: [李刚](http://oa.ee.tsinghua.edu.cn/~ligang/index.htm) 教授.
 
 
 
