@@ -17,7 +17,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 ## Education
 
-- 2018.12, Ph.D., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology. Supervisor: Professor [Fei Hu](http://eic.hust.edu.cn/professor/hufei/).
+- 2018.12, Ph.D., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology.
 
 - 2013.06, B.S., Communication Engineering, Huazhong University of Science and Technology.
 
@@ -28,7 +28,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 - 2021.05-present, Associate Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology.
 
-- 2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University. Supervisor: Professor [Gang Li](http://oa.ee.tsinghua.edu.cn/~ligang/index.htm).
+- 2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University.
 
 
 
