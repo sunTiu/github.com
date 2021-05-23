@@ -23,14 +23,14 @@ Email: dzhu@hust.edu.cn
 
 - 2007.07, Ph.D., Communication Engineering, Huazhong University of Science and Technology.
 
-- 2013.06, B.S., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology. 
+- 2013.06, B.S., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology. Supervisor: Professor [Fei Hu](http://eic.hust.edu.cn/professor/hufei/).
 
 
 ## Experience
 
 - 2021.05-present, Associate Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology.
 
-- 2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University. Supervisor: Professor [Gang Li](http://oa.ee.tsinghua.edu.cn/~ligang/indexe.htm)
+- 2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University. Supervisor: Professor [Gang Li](http://oa.ee.tsinghua.edu.cn/~ligang/index.htm).
 
 
 
@@ -73,7 +73,9 @@ Email: dzhu@hust.edu.cn
 6. **D. Zhu**, F. Hu, L. Lang, L. Wu, and X. Peng, "Multi-Objective Optimization of Circular Lattice Arrays in Aperture Synthesis Radiometers," In *Proceedings of IEEE International Symposium on Antennas and Propagation (APS/URSI) 2016*.
 
 
-## Publications
+## Professional Activities
+
+- IEEE Member
 
 
 
