@@ -1,7 +1,7 @@
 
 ### Welcome to Dong Zhu's Homepage ([中文版](indexc.md))
 
-<img src='/cv_photo.jpg' align='right' style=' width:210px'/>
+<img src='/cvphoto.jpg' align='right' style=' width:210px'/>
 
 ## Dong Zhu
 
