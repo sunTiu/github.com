@@ -1,11 +1,11 @@
 
-## Welcome to Dong Zhu's Homepage
+### Welcome to Dong Zhu's Homepage
 
 
 
 <img src='/cv_photo.jpg' align='right' style=' width:210px'/>
 
-### Dong Zhu (朱冬)
+## Dong Zhu (朱冬)
 
 Ph.D., Associate Professor
 
@@ -15,22 +15,22 @@ Ph.D., Associate Professor
 
 Wuhan 430074, P.R. China
 
-Email: dzhu\@hust.edu.cn
+Email: dzhu@hust.edu.cn
 
 
 
 ## Education
 
-- 2007.07, Ph.D., Communication Engineering, Huazhong University of Science and Technology
+- 2007.07, Ph.D., Communication Engineering, Huazhong University of Science and Technology.
 
-- 2013.06, B.S., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology
+- 2013.06, B.S., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology. 
 
 
 ## Experience
 
-- 2021.05-present, Associate Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology
+- 2021.05-present, Associate Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology.
 
-- 2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University
+- 2019.02-2021.03, Research Fellow, Department of Electronic Engineering, Tsinghua University. Supervisor: Professor [Gang Li](http://oa.ee.tsinghua.edu.cn/~ligang/indexe.htm)
 
 
 
@@ -71,4 +71,9 @@ Email: dzhu\@hust.edu.cn
 4. **D. Zhu**, G. Li, and X.-P. Zhang, "Mirrored Arrays for Direction-Of-Arrival Estimation," In *Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2020*.
 5. **D. Zhu** and G. Li, "Robust Sparse Arrays with Multiple-Fold Redundant Difference Coarrays," In *Proceedings of IEEE International Conference on Signal, Information and Data Processing (ICSIDP) 2019*. **(Excellent Paper)**
 6. **D. Zhu**, F. Hu, L. Lang, L. Wu, and X. Peng, "Multi-Objective Optimization of Circular Lattice Arrays in Aperture Synthesis Radiometers," In *Proceedings of IEEE International Symposium on Antennas and Propagation (APS/URSI) 2016*.
+
+
+## Publications
+
+
 
