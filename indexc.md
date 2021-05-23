@@ -28,19 +28,19 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 - 2021.05至今, 副研究员, 华中科技大学电子信息与通信学院.
 
-- 2019.02-2021.03, 博士后（助理研究员）, 清华大学电子系. 合作导师: [李刚](http://oa.ee.tsinghua.edu.cn/~ligang/index.htm) 教授.
+- 2019.02-2021.03, 博士后（助理研究员）, 清华大学电子工程系. 合作导师: [李刚](http://oa.ee.tsinghua.edu.cn/~ligang/index.htm) 教授.
 
 
 
-## Research Interests
+## 研究兴趣
 
-&emsp;&emsp;Microwave Remote Sensing, Array Signal Processing, Antenna Arrays, Numerical Optimization Techniques, Information Fusion.
+&emsp;&emsp;微波遥感, 阵列信号处理, 天线阵列, 数值优化方法, 信息融合.
 
 
 
-## Publications
+## 学术出版物
 
-### Journal Articles
+### 期刊论文
 
 1. **D. Zhu**, L. Wu, Y. Cheng, and H. Lu, "Deterministic Array Configurations for Radiometric Sensitivity Optimization in Microwave Interferometric Radiometers," *IEEE Transactions on Geoscience and Remote Sensing*, in press.
 2. **D. Zhu** and G. Li, "Multiple-Fold Redundancy Arrays With Robust Difference Coarrays: Fundamental and Analytical Design Method," *IEEE Transactions on Antennas and Propagation*, in press.
@@ -61,7 +61,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 
 
-### Conference Articles
+### 会议论文
 
 1. **D. Zhu** and G. Li, "SMOS RFI Detection Based on Reweighted L1-norm Mininization," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*. **(Invited)**
 2. **D. Zhu**, X. Wang, G. Li, and X.-P. Zhang, "Fusion of Spaceborne and Airborne SAR images Using Saliency and Fuzzy Logic for Vessel Detection," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*.
@@ -71,7 +71,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 6. **D. Zhu**, F. Hu, L. Lang, L. Wu, and X. Peng, "Multi-Objective Optimization of Circular Lattice Arrays in Aperture Synthesis Radiometers," In *Proceedings of IEEE International Symposium on Antennas and Propagation (APS/URSI) 2016*.
 
 
-## Professional Activities
+## 职业活动
 
 - Member, IEEE
 - Reviewer for
