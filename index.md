@@ -9,9 +9,9 @@
 
 Ph.D., Associate Professor
 
-School of Electronic Information and Communications
+[School of Electronic Information and Communications](http://ei.hust.edu.cn/)
 
-Huazhong University of Science and Technology
+[Huazhong University of Science and Technology](https://www.hust.edu.cn/) (HUST)
 
 Wuhan 430074, P.R. China
 
