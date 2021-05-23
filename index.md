@@ -15,7 +15,7 @@ Ph.D., Associate Professor
 
 Wuhan 430074, P.R. China
 
-Email: dzhu@hust.edu.cn
+Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 
 
@@ -75,7 +75,18 @@ Email: dzhu@hust.edu.cn
 
 ## Professional Activities
 
-- IEEE Member
+- Member, IEEE
+- Reviewer for
+  - IEEE Transactions on Geoscience and Remote Sensing
+  - IEEE Transactions on Antennas and Propagation
+  - IEEE Transactions on Signal Processing
+  - IEEE Transactions on Vehicular Technology
+  - IEEE Antennas and Wireless Propagation Letters
+  - IEEE Geoscience and Remote Sensing Letters
+  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  - IEEE Access
+  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+
 
 
 
