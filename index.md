@@ -9,11 +9,7 @@
 
 Ph.D., Associate Professor
 
-[School of Electronic Information and Communications](http://ei.hust.edu.cn/)
-
-[Huazhong University of Science and Technology](https://www.hust.edu.cn/) (HUST)
-
-Wuhan 430074, P.R. China
+[School of Electronic Information and Communications](http://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/) (HUST), Wuhan 430074, P.R. China
 
 Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
@@ -21,9 +17,11 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 ## Education
 
-- 2007.07, Ph.D., Communication Engineering, Huazhong University of Science and Technology.
+- 2018.12, Ph.D., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology. Supervisor: Professor [Fei Hu](http://eic.hust.edu.cn/professor/hufei/).
 
-- 2013.06, B.S., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology. Supervisor: Professor [Fei Hu](http://eic.hust.edu.cn/professor/hufei/).
+- 2013.06, B.S., Communication Engineering, Huazhong University of Science and Technology.
+
+
 
 
 ## Experience
