@@ -3,7 +3,7 @@
 
 
 
-<img src='/photo_2.jpg' align='right' style=' height:210px'/>
+<img src='/cvphoto.jpg' align='right' style=' height:210px'/>
 
 ## 朱冬 
 
