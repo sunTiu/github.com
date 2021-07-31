@@ -84,6 +84,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
   - IEEE Antennas and Wireless Propagation Letters
   - IEEE Geoscience and Remote Sensing Letters
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  - Signal Processing
   - IEEE Access
   - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
 
