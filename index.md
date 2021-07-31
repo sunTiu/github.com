@@ -34,7 +34,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 ## Research Interests
 
-&emsp;&emsp;Microwave Remote Sensing, Array Signal Processing, Antenna Arrays, Numerical Optimization Techniques, Information Fusion.
+&emsp;&emsp;Millimeter-Wave Imaging and Detection, Remote Sensing Data Processing, Information Fusion, Antenna Arrays, Numerical Optimization Techniques.
 
 
 
