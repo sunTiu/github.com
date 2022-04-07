@@ -5,7 +5,7 @@
 
 <img src='/cvphoto.jpg' align='right' style=' height:210px'/>
 
-## 朱冬 
+### 朱冬 
 
 博士, 副研究员
 
@@ -15,7 +15,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 #### 招生信息: 欢迎具有良好数学基础、编程能力、英语水平的同学攻读博士或硕士研究生！
 
-## 教育背景
+### 教育背景
 
 - 2018.12, 获工学博士学位, 华中科技大学, 电子信息与通信学院. 
 
@@ -24,7 +24,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 
 
-## 职业经历
+### 职业经历
 
 - 2021.05至今, 副研究员, 华中科技大学, 电子信息与通信学院.
 
@@ -32,15 +32,15 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 
 
-## 研究兴趣
+### 研究兴趣
 
 &emsp;&emsp;毫米波成像与探测, 遥感数据处理, 信息融合, 天线阵列, 数值优化方法.
 
 
 
-## 学术出版物
+### 学术出版物
 
-### 期刊论文
+#### 期刊论文
 
 1. **D. Zhu**, J. Tao, Y. Xu, Y. Cheng, H. Lu, and F. Hu, "RFI Localization via Reweighted Nuclear Norm Minimization in Microwave Interferometric Radiometry," *IEEE Transactions on Geoscience and Remote Sensing*, 2022, in press.
 2. H. Hu, **D. Zhu\***, and F. Hu, "A Novel Imaging Method Using Fractional Fourier Transform for Near-Field Synthetic Aperture Radiometer Systems," *IEEE Geoscience and Remote Sensing Letters*, 2022, in press.
@@ -64,7 +64,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 20. **D. Zhu**, F. Hu, F. He, L. Wu, J. Li, and C.-H. Jang, "A Novel Optimal Design of Antenna Array in Aperture Synthesis Radiometers," *IEEE Antennas and Wireless Propagation Letters*, vol. 14, pp. 1227-1230, 2015.
 
 
-### 会议论文
+#### 会议论文
 
 1. J. Tao, **D. Zhu**, and F. Hu, "RFI Localization via Generalized Augmented Covariance Matrix Reconstruction," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2022*.
 2. **D. Zhu** and G. Li, "SMOS RFI Detection Based on Reweighted L1-norm Mininization," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*. **(Invited)**
@@ -75,7 +75,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 7. **D. Zhu**, F. Hu, L. Lang, L. Wu, and X. Peng, "Multi-Objective Optimization of Circular Lattice Arrays in Aperture Synthesis Radiometers," In *Proceedings of IEEE International Symposium on Antennas and Propagation (APS/URSI) 2016*.
 
 
-## 职业活动
+### 职业活动
 
 - Member, IEEE
 - Reviewer for
