@@ -3,7 +3,7 @@
 
 <img src='/cvphoto.jpg' align='right' style=' height:210px'/>
 
-## Dong Zhu
+### Dong Zhu
 
 
 
@@ -15,7 +15,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 
 
-## Education
+### Education
 
 - 2018.12, Ph.D., Electromagnetic Field and Microwave Technology, Huazhong University of Science and Technology.
 
@@ -24,7 +24,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 
 
-## Experience
+### Experience
 
 - 2021.05-present, Associate Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology.
 
@@ -32,15 +32,15 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 
 
-## Research Interests
+### Research Interests
 
 &emsp;&emsp;Millimeter-Wave Imaging and Detection, Remote Sensing Data Processing, Information Fusion, Antenna Arrays, Numerical Optimization Techniques.
 
 
 
-## Publications
+### Publications
 
-### Journal Articles
+#### Journal Articles
 
 1. **D. Zhu**, J. Tao, Y. Xu, Y. Cheng, H. Lu, and F. Hu, "RFI Localization via Reweighted Nuclear Norm Minimization in Microwave Interferometric Radiometry," *IEEE Transactions on Geoscience and Remote Sensing*, 2022, in press.
 2. H. Hu, **D. Zhu\***, and F. Hu, "A Novel Imaging Method Using Fractional Fourier Transform for Near-Field Synthetic Aperture Radiometer Systems," *IEEE Geoscience and Remote Sensing Letters*, 2022, in press.
@@ -65,7 +65,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 
 
-### Conference Articles
+#### Conference Articles
 
 1. J. Tao, **D. Zhu**, and F. Hu, "RFI Localization via Generalized Augmented Covariance Matrix Reconstruction," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2022*.
 2. **D. Zhu** and G. Li, "SMOS RFI Detection Based on Reweighted L1-norm Mininization," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*. **(Invited)**
@@ -76,7 +76,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 7. **D. Zhu**, F. Hu, L. Lang, L. Wu, and X. Peng, "Multi-Objective Optimization of Circular Lattice Arrays in Aperture Synthesis Radiometers," In *Proceedings of IEEE International Symposium on Antennas and Propagation (APS/URSI) 2016*.
 
 
-## Professional Activities
+### Professional Activities
 
 - Member, IEEE
 - Reviewer for
@@ -91,6 +91,9 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
   - IEEE Access
   - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
 
+### Awards
 
+-  Chutian Scholar Program by Hubei Province (2021)
+-  Wuhan Talents (Excellent Young Scholar) (2021)
 
 
