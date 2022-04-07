@@ -66,12 +66,13 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
 
 ### 会议论文
 
-1. **D. Zhu** and G. Li, "SMOS RFI Detection Based on Reweighted L1-norm Mininization," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*. **(Invited)**
-2. **D. Zhu**, X. Wang, G. Li, and X.-P. Zhang, "Fusion of Spaceborne and Airborne SAR images Using Saliency and Fuzzy Logic for Vessel Detection," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*.
-3. **D. Zhu** and G. Li, "Location of SMOS RFI Sources Using a Matrix Completion Approach," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2020*.
-4. **D. Zhu**, G. Li, and X.-P. Zhang, "Mirrored Arrays for Direction-Of-Arrival Estimation," In *Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2020*.
-5. **D. Zhu** and G. Li, "Robust Sparse Arrays with Multiple-Fold Redundant Difference Coarrays," In *Proceedings of IEEE International Conference on Signal, Information and Data Processing (ICSIDP) 2019*. **(Excellent Paper)**
-6. **D. Zhu**, F. Hu, L. Lang, L. Wu, and X. Peng, "Multi-Objective Optimization of Circular Lattice Arrays in Aperture Synthesis Radiometers," In *Proceedings of IEEE International Symposium on Antennas and Propagation (APS/URSI) 2016*.
+1. J. Tao, **D. Zhu**, and F. Hu, "RFI Localization via Generalized Augmented Covariance Matrix Reconstruction," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2022*.
+2. **D. Zhu** and G. Li, "SMOS RFI Detection Based on Reweighted L1-norm Mininization," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*. **(Invited)**
+3. **D. Zhu**, X. Wang, G. Li, and X.-P. Zhang, "Fusion of Spaceborne and Airborne SAR images Using Saliency and Fuzzy Logic for Vessel Detection," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2021*.
+4. **D. Zhu** and G. Li, "Location of SMOS RFI Sources Using a Matrix Completion Approach," In *Proceedings of International Geoscience and Remote Sensing Symposium (IGARSS) 2020*.
+5. **D. Zhu**, G. Li, and X.-P. Zhang, "Mirrored Arrays for Direction-Of-Arrival Estimation," In *Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2020*.
+6. **D. Zhu** and G. Li, "Robust Sparse Arrays with Multiple-Fold Redundant Difference Coarrays," In *Proceedings of IEEE International Conference on Signal, Information and Data Processing (ICSIDP) 2019*. **(Excellent Paper)**
+7. **D. Zhu**, F. Hu, L. Lang, L. Wu, and X. Peng, "Multi-Objective Optimization of Circular Lattice Arrays in Aperture Synthesis Radiometers," In *Proceedings of IEEE International Symposium on Antennas and Propagation (APS/URSI) 2016*.
 
 
 ## 职业活动
