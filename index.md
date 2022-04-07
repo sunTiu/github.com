@@ -91,7 +91,7 @@ Email: dzhu [AT] hust [DOT] edu [DOT] cn
   - IEEE Access
   - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
 
-### Awards
+### Awards and Honors
 
 -  Chutian Scholar Program by Hubei Province (2021)
 -  Wuhan Talents (Excellent Young Scholar) (2021)
